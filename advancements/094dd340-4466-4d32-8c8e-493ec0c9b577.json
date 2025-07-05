@@ -1188,9 +1188,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
+  "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
-      "has_emerald_block": "2025-07-05 10:51:11 +0800"
+      "has_pointed_dripstone": "2025-07-05 10:22:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-07-05 10:22:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-05 10:22:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-05 10:22:49 +0800"
     },
     "done": true
   },
@@ -1218,21 +1236,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-07-05 10:22:39 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-05 10:24:03 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-07-05 10:22:49 +0800"
     },
     "done": true
   },
@@ -1260,15 +1266,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+  "minecraft:recipes/misc/emerald": {
     "criteria": {
-      "has_moss_block": "2025-07-05 10:22:49 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-05 10:22:49 +0800"
+      "has_emerald_block": "2025-07-05 10:51:11 +0800"
     },
     "done": true
   },
