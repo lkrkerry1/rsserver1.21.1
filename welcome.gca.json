@@ -1,0 +1,8 @@
+{
+  "message": [
+    "{%player%}, welcome!"
+  ],
+  "args": {
+    "player": "gca:player"
+  }
+}

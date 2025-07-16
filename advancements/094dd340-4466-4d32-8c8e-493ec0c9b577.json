@@ -11,14 +11,20 @@
       "minecraft:flower_forest": "2025-07-04 18:00:59 +0800",
       "minecraft:beach": "2025-07-04 17:55:24 +0800",
       "minecraft:dark_forest": "2025-07-04 18:02:49 +0800",
+      "minecraft:forest": "2025-07-05 14:58:48 +0800",
+      "minecraft:taiga": "2025-07-16 17:34:51 +0800",
+      "minecraft:river": "2025-07-04 17:52:12 +0800",
+      "minecraft:snowy_plains": "2025-07-04 17:47:33 +0800",
+      "minecraft:snowy_taiga": "2025-07-16 17:35:58 +0800",
+      "minecraft:ice_spikes": "2025-07-05 14:57:48 +0800",
+      "minecraft:old_growth_birch_forest": "2025-07-05 14:57:59 +0800",
       "minecraft:frozen_river": "2025-07-04 17:51:00 +0800",
       "minecraft:ocean": "2025-07-04 17:57:27 +0800",
       "minecraft:sunflower_plains": "2025-07-04 18:00:24 +0800",
-      "minecraft:river": "2025-07-04 17:52:12 +0800",
       "minecraft:meadow": "2025-07-04 17:54:21 +0800",
       "minecraft:birch_forest": "2025-07-04 18:02:41 +0800",
-      "minecraft:snowy_plains": "2025-07-04 17:47:33 +0800",
-      "minecraft:plains": "2025-07-04 17:50:26 +0800"
+      "minecraft:plains": "2025-07-04 17:50:26 +0800",
+      "minecraft:deep_lukewarm_ocean": "2025-07-05 14:58:01 +0800"
     },
     "done": false
   },
@@ -1269,6 +1275,114 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-07-05 10:51:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-05 14:53:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-07-05 14:53:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-07-05 14:57:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-07-05 14:57:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-05 14:57:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-16 17:41:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-16 17:45:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-16 18:49:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-16 18:49:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-16 18:49:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-16 18:49:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-16 18:49:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-16 18:49:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-16 18:53:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-16 18:53:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-07-16 19:02:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-07-16 19:02:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-07-16 19:17:07 +0800"
     },
     "done": true
   },

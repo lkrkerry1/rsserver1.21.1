@@ -1,0 +1,11 @@
+{
+  "bot_cobble_stone": {
+    "actions": {
+      "attack": -1,
+      "sneaking": false,
+      "sprinting": false,
+      "forward": 0.0,
+      "strafing": 0.0
+    }
+  }
+}
