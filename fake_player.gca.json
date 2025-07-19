@@ -1,22 +1,5 @@
 {
-  "bot_cobble_stone": {
-    "actions": {
-      "attack": -1,
-      "sneaking": false,
-      "sprinting": false,
-      "forward": 0.0,
-      "strafing": 0.0
-    }
-  },
   "bot_iron": {
-    "actions": {
-      "sneaking": false,
-      "sprinting": false,
-      "forward": 0.0,
-      "strafing": 0.0
-    }
-  },
-  "bot_furnace": {
     "actions": {
       "sneaking": false,
       "sprinting": false,
