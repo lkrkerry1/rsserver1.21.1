@@ -7,7 +7,32 @@
       "strafing": 0.0
     }
   },
+  "bot_stone": {
+    "actions": {
+      "sneaking": false,
+      "sprinting": false,
+      "forward": 0.0,
+      "strafing": 0.0
+    }
+  },
   "bot_mobloot": {
+    "actions": {
+      "sneaking": false,
+      "sprinting": false,
+      "forward": 0.0,
+      "strafing": 0.0
+    }
+  },
+  "bot_wood": {
+    "actions": {
+      "use": -1,
+      "sneaking": false,
+      "sprinting": false,
+      "forward": 0.0,
+      "strafing": 0.0
+    }
+  },
+  "bot_furnace": {
     "actions": {
       "sneaking": false,
       "sprinting": false,
