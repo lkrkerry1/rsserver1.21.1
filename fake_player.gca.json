@@ -1,5 +1,5 @@
 {
-  "bot_iron": {
+  "bot_shulker": {
     "actions": {
       "sneaking": false,
       "sprinting": false,
@@ -15,25 +15,18 @@
       "strafing": 0.0
     }
   },
-  "bot_mobloot": {
-    "actions": {
-      "sneaking": false,
-      "sprinting": false,
-      "forward": 0.0,
-      "strafing": 0.0
-    }
-  },
-  "bot_wood": {
-    "actions": {
-      "use": -1,
-      "sneaking": false,
-      "sprinting": false,
-      "forward": 0.0,
-      "strafing": 0.0
-    }
-  },
   "bot_furnace": {
     "actions": {
+      "sneaking": false,
+      "sprinting": false,
+      "forward": 0.0,
+      "strafing": 0.0
+    }
+  },
+  "bot_ice": {
+    "actions": {
+      "attack": -1,
+      "use": -1,
       "sneaking": false,
       "sprinting": false,
       "forward": 0.0,
