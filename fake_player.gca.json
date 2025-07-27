@@ -1,21 +1,5 @@
 {
-  "bot_stone": {
-    "actions": {
-      "sneaking": false,
-      "sprinting": false,
-      "forward": 0.0,
-      "strafing": 0.0
-    }
-  },
-  "bot_furnace": {
-    "actions": {
-      "sneaking": false,
-      "sprinting": false,
-      "forward": 0.0,
-      "strafing": 0.0
-    }
-  },
-  "bot_shulker": {
+  "bot_iron": {
     "actions": {
       "sneaking": false,
       "sprinting": false,
@@ -27,6 +11,14 @@
     "actions": {
       "attack": -1,
       "use": -1,
+      "sneaking": false,
+      "sprinting": false,
+      "forward": 0.0,
+      "strafing": 0.0
+    }
+  },
+  "bot_shulker": {
+    "actions": {
       "sneaking": false,
       "sprinting": false,
       "forward": 0.0,
