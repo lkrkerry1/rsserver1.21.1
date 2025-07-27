@@ -1,12 +1,4 @@
 {
-  "bot_shulker": {
-    "actions": {
-      "sneaking": false,
-      "sprinting": false,
-      "forward": 0.0,
-      "strafing": 0.0
-    }
-  },
   "bot_stone": {
     "actions": {
       "sneaking": false,
@@ -16,6 +8,14 @@
     }
   },
   "bot_furnace": {
+    "actions": {
+      "sneaking": false,
+      "sprinting": false,
+      "forward": 0.0,
+      "strafing": 0.0
+    }
+  },
+  "bot_shulker": {
     "actions": {
       "sneaking": false,
       "sprinting": false,
